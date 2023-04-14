@@ -12,3 +12,8 @@
 [<img src="https://simpleicons.org/icons/scikitlearn.svg" alt="Sickit-Learn" width="28"/>](https://scikit-learn.org)
 
 </div>
+
+1. [x] Regression
+2. [ ] Named Entity Recognition
+3. [ ] Classification & Clustering
+4. [ ] Text Classification
