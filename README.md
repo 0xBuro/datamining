@@ -14,6 +14,6 @@
 </div>
 
 1. [x] Regression
-2. [ ] Named Entity Recognition
+2. [x] Named Entity Recognition
 3. [ ] Classification & Clustering
 4. [ ] Text Classification
