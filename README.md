@@ -15,5 +15,5 @@
 
 1. [x] Regression
 2. [x] Named Entity Recognition
-3. [ ] Classification & Clustering
-4. [ ] Text Classification
+3. [x] Classification & Clustering
+4. [x] Text Classification
